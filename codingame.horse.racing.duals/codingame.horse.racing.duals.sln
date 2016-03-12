@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codingame.horse.racing.duals", "codingame.horse.racing.duals\codingame.horse.racing.duals.csproj", "{A44F6840-19E6-4274-B82E-26F614817FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A44F6840-19E6-4274-B82E-26F614817FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44F6840-19E6-4274-B82E-26F614817FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44F6840-19E6-4274-B82E-26F614817FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44F6840-19E6-4274-B82E-26F614817FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
